@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/src/SFML
+# Install script for directory: C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/src/SFML
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/40673258/Source/Repos/effective-chainsaw/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/Cmerc/Source/Repos/effective-chainsaw/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,12 +34,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/40673258/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/src/SFML/System/cmake_install.cmake")
-  include("C:/Users/40673258/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/src/SFML/Main/cmake_install.cmake")
-  include("C:/Users/40673258/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/src/SFML/Window/cmake_install.cmake")
-  include("C:/Users/40673258/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/src/SFML/Network/cmake_install.cmake")
-  include("C:/Users/40673258/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/src/SFML/Graphics/cmake_install.cmake")
-  include("C:/Users/40673258/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/src/SFML/Audio/cmake_install.cmake")
+  include("C:/Users/Cmerc/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/src/SFML/System/cmake_install.cmake")
+  include("C:/Users/Cmerc/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/src/SFML/Main/cmake_install.cmake")
+  include("C:/Users/Cmerc/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/src/SFML/Window/cmake_install.cmake")
+  include("C:/Users/Cmerc/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/src/SFML/Network/cmake_install.cmake")
+  include("C:/Users/Cmerc/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/src/SFML/Graphics/cmake_install.cmake")
+  include("C:/Users/Cmerc/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/src/SFML/Audio/cmake_install.cmake")
 
 endif()
 

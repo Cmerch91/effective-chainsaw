@@ -206,26 +206,26 @@
 			[
 				{
 					"backtrace" : 19,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/include"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/include"
 				},
 				{
 					"backtrace" : 19,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/src"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/src"
 				},
 				{
 					"backtrace" : 20,
 					"isSystem" : true,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/extlibs/headers/minimp3"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/extlibs/headers/minimp3"
 				},
 				{
 					"backtrace" : 21,
 					"isSystem" : true,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/extlibs/headers/AL"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/extlibs/headers/AL"
 				},
 				{
 					"backtrace" : 4,
 					"isSystem" : true,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/extlibs/headers"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/extlibs/headers"
 				}
 			],
 			"language" : "CXX",
@@ -295,26 +295,26 @@
 			[
 				{
 					"backtrace" : 19,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/include"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/include"
 				},
 				{
 					"backtrace" : 19,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/src"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/src"
 				},
 				{
 					"backtrace" : 20,
 					"isSystem" : true,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/extlibs/headers/minimp3"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/extlibs/headers/minimp3"
 				},
 				{
 					"backtrace" : 21,
 					"isSystem" : true,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/extlibs/headers/AL"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/extlibs/headers/AL"
 				},
 				{
 					"backtrace" : 4,
 					"isSystem" : true,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/extlibs/headers"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/extlibs/headers"
 				}
 			],
 			"language" : "RC",
@@ -351,7 +351,7 @@
 		],
 		"prefix" : 
 		{
-			"path" : "C:/Users/40673258/Source/Repos/effective-chainsaw/out/install/x64-Debug"
+			"path" : "C:/Users/Cmerc/Source/Repos/effective-chainsaw/out/install/x64-Debug"
 		}
 	},
 	"link" : 
@@ -369,32 +369,32 @@
 			},
 			{
 				"backtrace" : 7,
-				"fragment" : "C:\\Users\\40673258\\source\\repos\\effective-chainsaw\\lib\\sfml\\extlibs\\libs-msvc-universal\\x64\\openal32.lib",
+				"fragment" : "C:\\Users\\Cmerc\\source\\repos\\effective-chainsaw\\lib\\sfml\\extlibs\\libs-msvc-universal\\x64\\openal32.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 10,
-				"fragment" : "C:\\Users\\40673258\\source\\repos\\effective-chainsaw\\lib\\sfml\\extlibs\\libs-msvc-universal\\x64\\vorbisenc.lib",
+				"fragment" : "C:\\Users\\Cmerc\\source\\repos\\effective-chainsaw\\lib\\sfml\\extlibs\\libs-msvc-universal\\x64\\vorbisenc.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 11,
-				"fragment" : "C:\\Users\\40673258\\source\\repos\\effective-chainsaw\\lib\\sfml\\extlibs\\libs-msvc-universal\\x64\\vorbisfile.lib",
+				"fragment" : "C:\\Users\\Cmerc\\source\\repos\\effective-chainsaw\\lib\\sfml\\extlibs\\libs-msvc-universal\\x64\\vorbisfile.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 12,
-				"fragment" : "C:\\Users\\40673258\\source\\repos\\effective-chainsaw\\lib\\sfml\\extlibs\\libs-msvc-universal\\x64\\vorbis.lib",
+				"fragment" : "C:\\Users\\Cmerc\\source\\repos\\effective-chainsaw\\lib\\sfml\\extlibs\\libs-msvc-universal\\x64\\vorbis.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 13,
-				"fragment" : "C:\\Users\\40673258\\source\\repos\\effective-chainsaw\\lib\\sfml\\extlibs\\libs-msvc-universal\\x64\\ogg.lib",
+				"fragment" : "C:\\Users\\Cmerc\\source\\repos\\effective-chainsaw\\lib\\sfml\\extlibs\\libs-msvc-universal\\x64\\ogg.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 16,
-				"fragment" : "C:\\Users\\40673258\\source\\repos\\effective-chainsaw\\lib\\sfml\\extlibs\\libs-msvc-universal\\x64\\flac.lib",
+				"fragment" : "C:\\Users\\Cmerc\\source\\repos\\effective-chainsaw\\lib\\sfml\\extlibs\\libs-msvc-universal\\x64\\flac.lib",
 				"role" : "libraries"
 			},
 			{

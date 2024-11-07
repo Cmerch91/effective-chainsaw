@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/src/SFML/System
+# Install script for directory: C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/src/SFML/System
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/40673258/Source/Repos/effective-chainsaw/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/Cmerc/Source/Repos/effective-chainsaw/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,10 +33,10 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "devel" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY OPTIONAL FILES "C:/Users/40673258/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/lib/sfml-system-d.lib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY OPTIONAL FILES "C:/Users/Cmerc/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/lib/sfml-system-d.lib")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "bin" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE SHARED_LIBRARY FILES "C:/Users/40673258/source/repos/effective-chainsaw/out/build/x64-Debug/bin/sfml-system-d-2.dll")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE SHARED_LIBRARY FILES "C:/Users/Cmerc/source/repos/effective-chainsaw/out/build/x64-Debug/bin/sfml-system-d-2.dll")
 endif()
 

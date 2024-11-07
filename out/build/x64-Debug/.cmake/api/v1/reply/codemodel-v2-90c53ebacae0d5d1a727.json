@@ -205,49 +205,49 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "PRACTICAL_1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PRACTICAL_1-Debug-6068086d2664310f6c7d.json",
+					"jsonFile" : "target-PRACTICAL_1-Debug-c1d7d6e58cab75de92d8.json",
 					"name" : "PRACTICAL_1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 8,
 					"id" : "sfml-audio::@f41189585cfb974df97d",
-					"jsonFile" : "target-sfml-audio-Debug-ee49457855e089164135.json",
+					"jsonFile" : "target-sfml-audio-Debug-6b70bef324c09d48768c.json",
 					"name" : "sfml-audio",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 7,
 					"id" : "sfml-graphics::@8f027e26a9c49a14a54c",
-					"jsonFile" : "target-sfml-graphics-Debug-334bfc20872f50ecfece.json",
+					"jsonFile" : "target-sfml-graphics-Debug-a6feb0160c9e80564fed.json",
 					"name" : "sfml-graphics",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 4,
 					"id" : "sfml-main::@900b937beac28bdf4572",
-					"jsonFile" : "target-sfml-main-Debug-76e7696c876d4a908878.json",
+					"jsonFile" : "target-sfml-main-Debug-3515c3fd30aa77f5bc0a.json",
 					"name" : "sfml-main",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 6,
 					"id" : "sfml-network::@cbc9a91aa7ffe1543f3e",
-					"jsonFile" : "target-sfml-network-Debug-2728839a297ad72eb730.json",
+					"jsonFile" : "target-sfml-network-Debug-6437bf3d70a05585cbd6.json",
 					"name" : "sfml-network",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 3,
 					"id" : "sfml-system::@ade90ebdf211b83bd87c",
-					"jsonFile" : "target-sfml-system-Debug-33c738d28870b4945de3.json",
+					"jsonFile" : "target-sfml-system-Debug-1d4a33259581c293678a.json",
 					"name" : "sfml-system",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 5,
 					"id" : "sfml-window::@344d4f502e197fb19f4c",
-					"jsonFile" : "target-sfml-window-Debug-5e66444b233e8860e273.json",
+					"jsonFile" : "target-sfml-window-Debug-04ebe381e41fca717d74.json",
 					"name" : "sfml-window",
 					"projectIndex" : 1
 				}
@@ -257,8 +257,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/40673258/source/repos/effective-chainsaw/out/build/x64-Debug",
-		"source" : "C:/Users/40673258/source/repos/effective-chainsaw"
+		"build" : "C:/Users/Cmerc/source/repos/effective-chainsaw/out/build/x64-Debug",
+		"source" : "C:/Users/Cmerc/source/repos/effective-chainsaw"
 	},
 	"version" : 
 	{

@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/40673258/source/repos/effective-chainsaw
+# Install script for directory: C:/Users/Cmerc/source/repos/effective-chainsaw
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/40673258/Source/Repos/effective-chainsaw/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/Cmerc/Source/Repos/effective-chainsaw/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/40673258/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/cmake_install.cmake")
+  include("C:/Users/Cmerc/source/repos/effective-chainsaw/out/build/x64-Debug/lib/sfml/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/40673258/source/repos/effective-chainsaw/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Cmerc/source/repos/effective-chainsaw/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

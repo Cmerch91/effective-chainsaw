@@ -86,7 +86,7 @@
 			[
 				{
 					"backtrace" : 8,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/include"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/include"
 				}
 			],
 			"language" : "CXX",
@@ -134,7 +134,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-LIBPATH:C:\\Users\\40673258\\source\\repos\\effective-chainsaw\\out\\build\\x64-Debug\\lib\\sfml\\lib",
+				"fragment" : "-LIBPATH:C:\\Users\\Cmerc\\source\\repos\\effective-chainsaw\\out\\build\\x64-Debug\\lib\\sfml\\lib",
 				"role" : "libraryPath"
 			},
 			{

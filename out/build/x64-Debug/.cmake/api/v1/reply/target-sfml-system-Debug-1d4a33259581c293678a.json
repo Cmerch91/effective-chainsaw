@@ -112,11 +112,11 @@
 			[
 				{
 					"backtrace" : 7,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/include"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/src"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/src"
 				}
 			],
 			"language" : "CXX",
@@ -173,11 +173,11 @@
 			[
 				{
 					"backtrace" : 7,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/include"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/include"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/Users/40673258/source/repos/effective-chainsaw/lib/sfml/src"
+					"path" : "C:/Users/Cmerc/source/repos/effective-chainsaw/lib/sfml/src"
 				}
 			],
 			"language" : "RC",
@@ -207,7 +207,7 @@
 		],
 		"prefix" : 
 		{
-			"path" : "C:/Users/40673258/Source/Repos/effective-chainsaw/out/install/x64-Debug"
+			"path" : "C:/Users/Cmerc/Source/Repos/effective-chainsaw/out/install/x64-Debug"
 		}
 	},
 	"link" : 
